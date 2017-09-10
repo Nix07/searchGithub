@@ -15,5 +15,6 @@ A step by step series that will help you have to get a development env running
 ```
 git clone https://github.com/Nix07/searchGithub
 cd searchGithub
+npm install
 npm start
 ```
