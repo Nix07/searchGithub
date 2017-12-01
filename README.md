@@ -8,7 +8,7 @@ This is a simple Github User searching app. It gives the live search results, pr
 * [NodeJS](https://nodejs.org/en/) - Used for backend development
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you to get and run the project on your local machine for development and testing purposes.
 
 ### Installing
 A step by step series that will help you have to get a development env running
